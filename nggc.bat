@@ -1,0 +1,1 @@
+ng g component components/%1
